@@ -1,15 +1,14 @@
-package com.bridgeLabz.FunctionalPrograms;
+package com.bridgeLabz.Programs;
 
 import com.bridgeLabz.Utility.Utility;
 
-class PrimeFactorisation{
+class TossCoin{
 
 	public static void main(String[] args){
 		Utility utility=new Utility();
-		System.out.println("Enter a number");
+		System.out.println("Enter the number of time toss the coin");
 		int num=utility.inputInteger();
-		utility.prime(num);
+		utility.tossCoin(num);
 		
 	}
-
 }

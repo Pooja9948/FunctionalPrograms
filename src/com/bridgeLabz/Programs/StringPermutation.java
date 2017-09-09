@@ -1,4 +1,4 @@
-package com.bridgeLabz.FunctionalPrograms;
+package com.bridgeLabz.Programs;
 
 import com.bridgeLabz.Utility.Utility;
 class StringPermutation{

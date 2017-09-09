@@ -1,4 +1,4 @@
-package com.bridgeLabz.FunctionalPrograms;
+package com.bridgeLabz.Programs;
 
 class CouponNumber{
 public static void main(String[] args){
